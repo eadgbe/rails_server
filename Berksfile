@@ -2,5 +2,5 @@ source 'https://api.berkshelf.com'
 
 metadata
 
-cookbook 'postgres'
+cookbook 'postgres', github: 'hw-cookbooks/postgresql'
 
