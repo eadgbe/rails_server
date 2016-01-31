@@ -7,4 +7,4 @@
 # All rights reserved - Do Not Redistribute
 #
 
-include_recipe 'postgres::server'
+include_recipe 'postgresql::server'
