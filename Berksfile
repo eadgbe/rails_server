@@ -1,5 +1,5 @@
 source 'https://api.berkshelf.com'
 
 cookbook 'openssl'
-cookbook 'postgresql', github: 'hw-cookbooks/postgresql', tag: 'v4.0.0'
+cookbook 'postgresql', github: 'dbfit/postgresql', tag: 'v3.4.20'
 
